@@ -1,6 +1,6 @@
 # 4100Final- sentiment analysis over past 14 years and genres
 
-The processed_data contain all the data generated from different API. To save time, only run the lyrics-processing.ipynb, which has all the sentiment analysis related code.
+The processed_data contains all the data generated from different API. To save time, only run the lyrics-processing.ipynb, which has all the sentiment analysis related code.
 
 ## Files
 - data_generatin.ipynb: to get all the data, including the top 100 songs, their lyrics, their genres information.
